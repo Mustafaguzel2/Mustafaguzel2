@@ -1,6 +1,6 @@
 # Hi there, I'm Mustafa Yiğit Güzel 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=32&duration=2500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World;Welcome+to+my+Matrix;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=35&duration=2500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+World;Welcome+to+my+Matrix;I'm+a+Full+Stack+Developer)
 
 ## Full Stack Developer | Tech Enthusiast | Ege Üniversitesi
 
@@ -21,8 +21,6 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development, system architecture, and best practices
 
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### 🛠️ Technologies & Tools
@@ -37,8 +35,6 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -57,12 +53,6 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula)
 
 ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&fontAlignY=35)
-
----
-
-### 🔥 Recent GitHub Activity
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
