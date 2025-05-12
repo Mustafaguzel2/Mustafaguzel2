@@ -21,6 +21,8 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development, system architecture, and best practices
 
+![GitHub Contribution Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -53,6 +55,12 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula)
 
 ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&fontAlignY=35)
+
+---
+
+### 🔥 Recent GitHub Activity
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
