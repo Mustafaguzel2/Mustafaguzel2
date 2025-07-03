@@ -2,13 +2,15 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=35&duration=2500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+World;Welcome+to+my+Matrix;I'm+a+Full+Stack+Developer)
 
-## Full Stack Developer | Tech Enthusiast | Ege Üniversitesi
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=dracula&count_private=true" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafaguzel2&theme=dracula" alt="Mustafa's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=dracula)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mustafaguzel2.Mustafaguzel2)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mustafaguzel2&theme=dracula)
-
-![Marquee SVG](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustafaguzel2.Mustafaguzel2" alt="visitors" />
+</p>
 
 ---
 
@@ -21,11 +23,11 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development, system architecture, and best practices
 
-![GitHub Contribution Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🛠️ Technologies & Tools
+
+![Marquee SVG](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -42,47 +44,30 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 
 ### 🏆 Featured Projects
 
-[![nextjs-social-media-app](https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=dracula)](https://github.com/Mustafaguzel2/nextjs-social-media-app)
-[![GrafanaPdfExporter](https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=dracula)](https://github.com/Mustafaguzel2/GrafanaPdfExporter)
-
-[![ScheduledScript](https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ScheduledScript&theme=dracula)](https://github.com/Mustafaguzel2/ScheduledScript)
-[![ecommorce-database-example](https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ecommorce-database-example&theme=dracula)](https://github.com/Mustafaguzel2/ecommorce-database-example)
-
----
-
-### 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula)
-
-![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&fontAlignY=35)
-
----
-
-### 🔥 Recent GitHub Activity
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://github.com/Mustafaguzel2/nextjs-social-media-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=dracula" alt="nextjs-social-media-app" />
+  </a>
+  <a href="https://github.com/Mustafaguzel2/GrafanaPdfExporter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=dracula" alt="GrafanaPdfExporter" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mustafaguzel2/ScheduledScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ScheduledScript&theme=dracula" alt="ScheduledScript" />
+  </a>
+  <a href="https://github.com/Mustafaguzel2/ecommorce-database-example">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ecommorce-database-example&theme=dracula" alt="ecommorce-database-example" />
+  </a>
+</p>
 
 ---
-
-### 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mustafa-yi%C4%9Fit-g%C3%BCzel-b1b952164/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Mustafaguzel2)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:mustafaguzel879@gmail.com)
-
-![Matrix GIF](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
-
----
-
-### ⚡ Fun fact
-
-The first "bug" in computer programming was an actual moth found in the Harvard Mark II computer in 1947!
 
 ### 🎯 Current Goals
 
 ```yaml
 {
-  "learning": ["AWS", "GraphQL", "Docker"],
+  "learning": ["ElastichSearch", "GraphQL", "Kafka"],
   "working_on": "AI Based website",
   "languages": {
     "current": ["JavaScript", "TypeScript", "Java"],
@@ -90,3 +75,29 @@ The first "bug" in computer programming was an actual moth found in the Harvard 
   }
 }
 ```
+
+---
+
+### 📫 How to reach me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-yi%C4%9Fit-g%C3%BCzel-b1b952164/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mustafaguzel2">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:mustafaguzel879@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun fact
+
+The first "bug" in computer programming was an actual moth found in the Harvard Mark II computer in 1947!
+
+---
+
+![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&fontAlignY=35) 
