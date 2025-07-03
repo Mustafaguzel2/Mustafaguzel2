@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=dracula&count_private=true" alt="Mustafa's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/api?user=Mustafaguzel2&theme=dracula" alt="Mustafa's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
@@ -59,14 +58,6 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
   <a href="https://github.com/Mustafaguzel2/ecommorce-database-example">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ecommorce-database-example&theme=dracula" alt="ecommorce-database-example" />
   </a>
-</p>
-
----
-
-### 🐍 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mustafaguzel2/Mustafaguzel2/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
