@@ -2,11 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=35&duration=2500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+World;Welcome+to+my+Matrix;I'm+a+Full+Stack+Developer)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=dracula&count_private=true" alt="Mustafa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustafaguzel2.Mustafaguzel2" alt="visitors" />
 </p>
