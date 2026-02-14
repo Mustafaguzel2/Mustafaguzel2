@@ -40,23 +40,23 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
 
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/GrafanaReportingTool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaReportingTool&theme=tokyonight" alt="Grafana Reporting Tool" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaReportingTool" alt="Grafana Reporting Tool" />
   </a>
   <a href="https://github.com/Mustafaguzel2/Sociffy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=Sociffy&theme=tokyonight" alt="Sociffy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=Sociffy" alt="Sociffy" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/SocialMedia-Microservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=SocialMedia-Microservice&theme=tokyonight" alt="Social Media Microservice" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=SocialMedia-Microservice" alt="Social Media Microservice" />
   </a>
   <a href="https://github.com/Mustafaguzel2/LoginOauth-Template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=LoginOauth-Template&theme=tokyonight" alt="Login Oauth Template" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=LoginOauth-Template" alt="Login Oauth Template" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/GsapSampleWebsite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GsapSampleWebsite&theme=tokyonight" alt="Gsap Sample Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GsapSampleWebsite" alt="Gsap Sample Website" />
   </a>
 </p>
 
@@ -65,8 +65,8 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&hide_border=true" alt="Mustafa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
