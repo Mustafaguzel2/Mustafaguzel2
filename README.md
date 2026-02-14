@@ -39,19 +39,24 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
 ### 🏆 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Mustafaguzel2/nextjs-social-media-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=tokyonight" alt="Social Media App" />
+  <a href="https://github.com/Mustafaguzel2/GrafanaReportingTool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaReportingTool&theme=tokyonight" alt="Grafana Reporting Tool" />
   </a>
-  <a href="https://github.com/Mustafaguzel2/GrafanaPdfExporter">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=tokyonight" alt="Grafana PDF Exporter" />
+  <a href="https://github.com/Mustafaguzel2/Sociffy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=Sociffy&theme=tokyonight" alt="Sociffy" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Mustafaguzel2/ScheduledScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=ScheduledScript&theme=tokyonight" alt="Scheduled Script" />
+  <a href="https://github.com/Mustafaguzel2/SocialMedia-Microservice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=SocialMedia-Microservice&theme=tokyonight" alt="Social Media Microservice" />
   </a>
-  <a href="https://github.com/Mustafaguzel2/ecommorce-database-example">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=ecommorce-database-example&theme=tokyonight" alt="Ecommerce DB" />
+  <a href="https://github.com/Mustafaguzel2/LoginOauth-Template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=LoginOauth-Template&theme=tokyonight" alt="Login Oauth Template" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mustafaguzel2/GsapSampleWebsite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GsapSampleWebsite&theme=tokyonight" alt="Gsap Sample Website" />
   </a>
 </p>
 
@@ -60,8 +65,8 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=tokyonight" alt="Mustafa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
