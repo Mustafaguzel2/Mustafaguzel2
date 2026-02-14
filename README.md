@@ -40,18 +40,18 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
 
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/nextjs-social-media-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=dracula" alt="nextjs-social-media-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=tokyonight" alt="Social Media App" />
   </a>
   <a href="https://github.com/Mustafaguzel2/GrafanaPdfExporter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=dracula" alt="GrafanaPdfExporter" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=tokyonight" alt="Grafana PDF Exporter" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/ScheduledScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ScheduledScript&theme=dracula" alt="ScheduledScript" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=ScheduledScript&theme=tokyonight" alt="Scheduled Script" />
   </a>
   <a href="https://github.com/Mustafaguzel2/ecommorce-database-example">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ecommorce-database-example&theme=dracula" alt="ecommorce-database-example" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Mustafaguzel2&repo=ecommorce-database-example&theme=tokyonight" alt="Ecommerce DB" />
   </a>
 </p>
 
@@ -60,8 +60,8 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=dracula&count_private=true" alt="Mustafa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=tokyonight" alt="Mustafa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -75,3 +75,17 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
   "career_goal": "Full Stack Developer in Europe",
   "preparing": "LeetCode algorithms for technical interviews"
 }
+```
+###
+📫 How to reach me
+<p align="center">
+<a href="https://www.linkedin.com/in/mustafa-yi%C4%9Fit-g%C3%BCzel-b1b952164/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Mustafaguzel2">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
+</a>
+<a href="mailto:mustafaguzel879@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
+</a>
+</p>
