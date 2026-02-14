@@ -1,6 +1,6 @@
 # Hi there, I'm Mustafa Yiğit Güzel 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=35&duration=2500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+World;Welcome+to+my+Matrix;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=35&duration=2500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+World;Welcome+to+my+Matrix;Full+Stack+Developer)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustafaguzel2.Mustafaguzel2" alt="visitors" />
@@ -10,29 +10,32 @@
 
 ### 💻 About Me
 
-I'm a passionate developer from İzmir, focused on creating elegant solutions to complex problems. My journey in tech has equipped me with a diverse skill set and a drive for continuous learning.
+I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Developer** based in İzmir. I specialize in building scalable web applications and exploring the depths of system architecture. My goal is to craft elegant solutions while preparing for a global career in tech.
 
-- 🔭 I'm currently working on modern web applications
-- 🌱 I'm constantly learning new technologies and frameworks
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, system architecture, and best practices
+- 🎓 Graduating in **June 2026**.
+- 🚀 Currently working on modern web applications and microservices.
+- 🐳 Deeply interested in **Docker**, **Containerization**, and **Database Optimization**.
+- 🌍 Actively improving my English towards **C1 level** for professional international collaboration.
+- 💬 Ask me about: **React, Node.js, SQL, and Software Best Practices**.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-![Marquee SVG](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
-
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -40,58 +43,41 @@ I'm a passionate developer from İzmir, focused on creating elegant solutions to
 
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/nextjs-social-media-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=dracula" alt="nextjs-social-media-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=nextjs-social-media-app&theme=tokyonight" alt="Social Media App" />
   </a>
   <a href="https://github.com/Mustafaguzel2/GrafanaPdfExporter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=dracula" alt="GrafanaPdfExporter" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=GrafanaPdfExporter&theme=tokyonight" alt="Grafana PDF Exporter" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Mustafaguzel2/ScheduledScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ScheduledScript&theme=dracula" alt="ScheduledScript" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ScheduledScript&theme=tokyonight" alt="Scheduled Script" />
   </a>
   <a href="https://github.com/Mustafaguzel2/ecommorce-database-example">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ecommorce-database-example&theme=dracula" alt="ecommorce-database-example" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustafaguzel2&repo=ecommorce-database-example&theme=tokyonight" alt="Ecommerce DB" />
   </a>
 </p>
 
 ---
 
-### 🎯 Current Goals
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafaguzel2&show_icons=true&theme=tokyonight&count_private=true" alt="Mustafa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaguzel2&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🎯 Current Focus
 
 ```yaml
 {
-  "learning": ["ElastichSearch", "GraphQL", "Kafka"],
-  "working_on": "AI Based website",
+  "learning": ["ElasticSearch", "GraphQL", "Kafka"],
+  "working_on": "AI Based Projects & Microservices",
+  "career_goal": "Full Stack Developer in Europe",
   "languages": {
-    "current": ["JavaScript", "TypeScript", "Java"],
-    "learning": ["ML", "LLM", "Go"]
+    "Turkish": "Native",
+    "English": "Advanced (Targeting C1)"
   }
 }
-```
-
----
-
-### 📫 How to reach me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-yi%C4%9Fit-g%C3%BCzel-b1b952164/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Mustafaguzel2">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:mustafaguzel879@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun fact
-
-The first "bug" in computer programming was an actual moth found in the Harvard Mark II computer in 1947!
-
----
-
-![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&fontAlignY=35) 
