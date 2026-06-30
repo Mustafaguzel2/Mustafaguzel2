@@ -10,9 +10,10 @@
 
 ### 💻 About Me
 
-I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Developer** based in İzmir. Currently focused on building elegant solutions to complex problems and preparing for a global career in tech.
+I'm a **Computer Engineering Graduate** and a **Full-Stack Developer** based in Istanbul. Currently focused on building elegant solutions to complex problems and actively seeking full-time opportunities to build a global career in tech.
 
-- 🎓 Graduating in **June 2026**.
+- 🎓 Graduated in **June 2026** with a degree in Computer Engineering.
+- 💼 Currently seeking full-time roles in software development.
 - 🚀 Specialized in modern web applications and microservices.
 - 🐳 Interested in **Docker**, **Containerization**, and **SQL Optimization**.
 - 🌍 Actively working towards a **C1 English level** for professional opportunities in Europe.
@@ -80,17 +81,3 @@ I'm a **4th-year Computer Engineering student** and a **Junior Full-Stack Develo
   "career_goal": "Full Stack Developer in Europe",
   "preparing": "LeetCode algorithms for technical interviews"
 }
-```
-###
-📫 How to reach me
-<p align="center">
-<a href="https://www.linkedin.com/in/mustafa-yi%C4%9Fit-g%C3%BCzel-b1b952164/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Mustafaguzel2">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
-</a>
-<a href="mailto:mustafaguzel879@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
-</a>
-</p>
