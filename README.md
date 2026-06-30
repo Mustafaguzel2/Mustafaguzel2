@@ -10,9 +10,10 @@
 
 ### 💻 About Me
 
-I'm a **Computer Engineering Graduate** and a **Full-Stack Developer** based in İzmir. Currently focused on building elegant solutions to complex problems and accelerating my global career in tech.
+I'm a **Computer Engineering Graduate** and a **Full-Stack Developer** based in Istanbul. Currently focused on building elegant solutions to complex problems and actively seeking full-time opportunities to build a global career in tech.
 
-- 🎓 **Graduated** with a degree in Computer Engineering (June 2026).
+- 🎓 Graduated in **June 2026** with a degree in Computer Engineering.
+- 💼 Currently seeking full-time roles in software development.
 - 🚀 Specialized in modern web applications and microservices.
 - 🐳 Interested in **Docker**, **Containerization**, and **SQL Optimization**.
 - 🌍 Actively working towards a **C1 English level** for professional opportunities in Europe.
@@ -77,6 +78,6 @@ I'm a **Computer Engineering Graduate** and a **Full-Stack Developer** based in 
 {
   "learning": ["ElasticSearch", "GraphQL", "Kafka"],
   "working_on": "AI Based website",
-  "career_goal": "Full Stack Developer in Europe",
+  "career_goal": "To acquire more technical knowledge and gain extensive experience as a Full Stack Developer.",
   "preparing": "LeetCode algorithms for technical interviews"
 }
